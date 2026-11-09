@@ -40,7 +40,7 @@ export default function task2() {
 
       <div className="flex gap-6">
 
-        <div className="bg-cyan-50 h-72 w-[30rem] p-8 flex flex-col justify-between rounded-[2.5rem] relative">
+        <div className="bg-cyan-50 h-72 w-30rem p-8 flex flex-col justify-between rounded-[2.5rem] relative">
           <div className="flex items-center gap-3">
             <img src="/palette.svg" alt="Icon" className="w-5 h-5" />
             <p className="text-sm font-medium">Design</p>
@@ -59,7 +59,7 @@ export default function task2() {
           </div>
         </div>
 
-        <div className="bg-green-50 h-72 w-[45rem] p-8 flex flex-col justify-between rounded-[2.5rem] relative">
+        <div className="bg-green-50 h-72 w-[45rem p-8 flex flex-col justify-between rounded-[2.5rem] relative">
           <span className="absolute top-8 right-8 text-green-700 text-xl">★</span>
           <div className="flex items-center gap-3 text-green-900">
             <img src="/brand-tabler.svg" alt="Icon" className="w-5 h-5" />
